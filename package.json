@@ -35,7 +35,7 @@
     "dracula-prism": "^2.1.13",
     "jose": "^5.1.0",
     "js-cookie": "^3.0.5",
-    "lucide-react": "^0.292.0",
+    "lucide-react": "^0.424.0",
     "nanoid": "^5.0.3",
     "nanostores": "^0.9.4",
     "node-html-parser": "^6.1.11",
