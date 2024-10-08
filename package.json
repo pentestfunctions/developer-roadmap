@@ -29,7 +29,7 @@
     "@nanostores/react": "^0.7.1",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
-    "astro": "^3.5.0",
+    "astro": "^4.15.12",
     "astro-compress": "^2.2.3",
     "clsx": "^2.0.0",
     "dracula-prism": "^2.1.13",
